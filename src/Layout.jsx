@@ -1,9 +1,9 @@
 import React from 'react';
-import Home from './components/shared/pages/Home';
-import Detail from './components/shared/pages/Detail';
+import Home from './pages/Home';
+import Detail from './pages/Detail';
 import Footer from './components/shared/Footer';
 import Navbar from './components/shared/Nabvar';
-import Contact from './components/shared/pages/Contact';
+import Contact from './pages/Contact';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 const Layout = () => {

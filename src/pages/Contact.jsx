@@ -1,4 +1,5 @@
 import React from 'react'
+
 const Contact = () => {
     return (
         <>
@@ -183,4 +184,5 @@ const Contact = () => {
         </>
     )
 }
+
 export default Contact
